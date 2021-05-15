@@ -1,0 +1,1 @@
+This is Michael Barker's first git project!
